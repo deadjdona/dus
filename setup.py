@@ -13,7 +13,7 @@ DEV_REQUIREMENTS = [
     'build == 0.7.*',
     'flake8 >= 4,< 7',
     'isort == 5.*',
-    'mypy == 0.942',
+    'mypy == 1.7.0',
     'pytest == 7.*',
     'pytest-cov == 4.*',
     'twine == 4.*',
