@@ -10,7 +10,7 @@ REQUIREMENTS = [
 
 DEV_REQUIREMENTS = [
     'black >= 22,< 25',
-    'build >= 0.7,< 1.1',
+    'build >= 0.7,< 1.2',
     'flake8 >= 4,< 8',
     'isort == 5.*',
     'mypy == 1.8.0',
