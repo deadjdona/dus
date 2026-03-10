@@ -15,7 +15,7 @@ DEV_REQUIREMENTS = [
     'isort == 5.*',
     'mypy == 1.8.0',
     'pytest >= 7,< 9',
-    'pytest-cov == 4.*',
+    'pytest-cov >= 4,< 6',
     'twine >= 4,< 6',
 ]
 
