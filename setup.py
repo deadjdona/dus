@@ -9,7 +9,7 @@ REQUIREMENTS = [
 ]
 
 DEV_REQUIREMENTS = [
-    'black >= 22,< 26',
+    'black >= 22,< 27',
     'build >= 0.7,< 1.6',
     'flake8 >= 4,< 8',
     'isort >= 5,< 9',
